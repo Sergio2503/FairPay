@@ -1,0 +1,36 @@
+# IntelliJ
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# Gradle
+.gradle/
+build/
+
+# Node
+node_modules/
+dist/
+
+# Angular cache
+.angular/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+
+# Docker volumes
+postgres-data/
+
+# Kotlin
+out/
+
+# Generated
+bin/
